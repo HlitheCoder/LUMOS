@@ -8,6 +8,7 @@ Computer Organization - Spring 2024
 
 ## Report
 assembly.s code explanation:
+
 all chamges have been made to the Fixed.Point_Unit.v file 
 at the first of loop we use load word to have x and y of the destination:
 then we multiply f1 by itself to have (x)^2 and we do the same to have (y)^2 and put them in f10 and f20
