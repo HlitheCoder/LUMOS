@@ -159,6 +159,10 @@ module Fixed_Point_Unit
     end
         /*
          *  Describe Your 32-bit Multiplier Circuit Here.
+              case   0 to 3 :4 times for 32 bit multiplication
+              case   4      :combine results
+              case   5      :sum of the products
+              after case 5 we return to the zero case
          */
          
 endmodule
