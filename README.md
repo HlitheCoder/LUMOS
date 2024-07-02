@@ -15,5 +15,7 @@ then we multiply f1 by itself to have (x)^2 and we do the same to have (y)^2 and
 then we add f10 and f2o and put them into f30
 then we radical f30 to have x3 and then we put them to the 0 bit
 then we use sp(stack pointer) for the information.
+
 picture of the multiplication results are uploaded below: 
+
 ![Screenshot 2024-07-03 000251](https://github.com/HlitheCoder/LUMOS/assets/141433454/4bcae8a6-ad16-47a5-9c38-2eb2bccf1893)
