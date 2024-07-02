@@ -1,10 +1,12 @@
 Computer Organization - Spring 2024
-Iran Univeristy of Science and Technology
-Assignment : LUMOS
-Name : Helia Naderi _ Dorsa Khalafi
-Student ID : 400413377 _ 400412013
+==============================================================
+## Iran Univeristy of Science and Technology
+## Assignment 1: LUMOS 
+- Name: Helia Naderi _ Dorsa Khalafi 
+- Student ID: 400413377 _ 400412013
+- Date: 7/2/2024
 
-Report : 
+## Report
 assembly.s code explanation:
 all chamges have been made to the Fixed.Point_Unit.v file 
 at the first of loop we use load word to have x and y of the destination:
